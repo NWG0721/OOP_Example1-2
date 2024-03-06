@@ -1,0 +1,14 @@
+Z:\Programs\c#\Studing Projects\OOP_Example1-2\bin\Debug\net8.0\OOP_Example1-2.exe
+Z:\Programs\c#\Studing Projects\OOP_Example1-2\bin\Debug\net8.0\OOP_Example1-2.deps.json
+Z:\Programs\c#\Studing Projects\OOP_Example1-2\bin\Debug\net8.0\OOP_Example1-2.runtimeconfig.json
+Z:\Programs\c#\Studing Projects\OOP_Example1-2\bin\Debug\net8.0\OOP_Example1-2.dll
+Z:\Programs\c#\Studing Projects\OOP_Example1-2\bin\Debug\net8.0\OOP_Example1-2.pdb
+Z:\Programs\c#\Studing Projects\OOP_Example1-2\obj\Debug\net8.0\OOP_Example1-2.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Programs\c#\Studing Projects\OOP_Example1-2\obj\Debug\net8.0\OOP_Example1-2.AssemblyInfoInputs.cache
+Z:\Programs\c#\Studing Projects\OOP_Example1-2\obj\Debug\net8.0\OOP_Example1-2.AssemblyInfo.cs
+Z:\Programs\c#\Studing Projects\OOP_Example1-2\obj\Debug\net8.0\OOP_Example1-2.csproj.CoreCompileInputs.cache
+Z:\Programs\c#\Studing Projects\OOP_Example1-2\obj\Debug\net8.0\OOP_Example1-2.dll
+Z:\Programs\c#\Studing Projects\OOP_Example1-2\obj\Debug\net8.0\refint\OOP_Example1-2.dll
+Z:\Programs\c#\Studing Projects\OOP_Example1-2\obj\Debug\net8.0\OOP_Example1-2.pdb
+Z:\Programs\c#\Studing Projects\OOP_Example1-2\obj\Debug\net8.0\OOP_Example1-2.genruntimeconfig.cache
+Z:\Programs\c#\Studing Projects\OOP_Example1-2\obj\Debug\net8.0\ref\OOP_Example1-2.dll
